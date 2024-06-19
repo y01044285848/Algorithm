@@ -12,7 +12,7 @@
     <td>01</td>
     <td>자료 구조 </td>
     <td>Data Structuress</td>
-    <td><a href="#">문제집</a></td> <!-- list, queue, stack, set, map -->
+    <td><a href="https://github.com/y01044285848/Algorithm/tree/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Data%20Structure/linkGuide">문제집</a></td> <!-- list, queue, stack, set, map -->
     <td>
       <a href="#">바로가기</a>
     </td>
