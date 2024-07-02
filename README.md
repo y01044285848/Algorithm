@@ -17,5 +17,14 @@
       <a href="https://github.com/y01044285848/Algorithm/tree/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Data%20Structure/handbook">바로가기</a>
     </td>
   </tr>
+    <tr>
+    <td>02</td>
+    <td>정렬 </td>
+    <td>Sort</td>
+    <td><a href="https://github.com/y01044285848/Algorithm/tree/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Data%20Structure/linkGuide">문제집</a></td> <!-- list, queue, stack, set, map -->
+    <td>
+      <a href="https://github.com/y01044285848/Algorithm/tree/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Data%20Structure/handbook">바로가기</a>
+    </td>
+  </tr>
 </table>
 <hr>
