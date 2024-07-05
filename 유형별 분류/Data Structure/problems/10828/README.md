@@ -1,4 +1,4 @@
-# 1764 스택(https://www.acmicpc.net/problem/10828)
+# [10828 스택](https://www.acmicpc.net/problem/10828)
 
 <h3>문제</h3>
 <ul>
