@@ -1,4 +1,4 @@
-# [1620 국회의원 선거](https://www.acmicpc.net/problem/1417)
+# [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 
 <h3>문제</h3>
 <ul>
