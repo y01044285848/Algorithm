@@ -37,5 +37,11 @@
     <td>silverIV	 </td>
     <td><a href="https://github.com/y01044285848/Algorithm/edit/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Data%20Structure/problems/1620">바로가기</a>         </td> 
   </tr>
+    <tr>
+    <td>2179</td>
+    <td>비슷한 단어</td>
+    <td>GoldIV	 </td>
+    <td><a href="https://github.com/y01044285848/Algorithm/edit/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Data%20Structure/problems/2179">바로가기</a>         </td> 
+  </tr>
 </table>
 <hr>
