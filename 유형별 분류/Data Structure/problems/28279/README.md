@@ -1,4 +1,4 @@
-# [28279 스택](https://www.acmicpc.net/problem/28279)
+# [28279 덱 2](https://www.acmicpc.net/problem/28279)
 
 <h3>문제</h3>
 <ul>

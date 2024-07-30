@@ -1,4 +1,4 @@
-# [24511 queuesyack](https://www.acmicpc.net/problem/24511)
+# [24511 queuestack](https://www.acmicpc.net/problem/24511)
 
 <h3>문제</h3>
 <ul>
