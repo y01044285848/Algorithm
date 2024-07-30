@@ -43,5 +43,17 @@
     <td>GoldIV	 </td>
     <td><a href="https://github.com/y01044285848/Algorithm/edit/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Data%20Structure/problems/2179">바로가기</a>         </td> 
   </tr>
+      <tr>
+    <td>24511</td>
+    <td>queuestack</td>
+    <td>silverIV	 </td>
+    <td><a href="https://github.com/y01044285848/Algorithm/edit/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Data%20Structure/problems/24511">바로가기</a>         </td> 
+  </tr>
+      <tr>
+    <td>28279</td>
+    <td>덱 2</td>
+    <td>silverIV	 </td>
+    <td><a href="https://github.com/y01044285848/Algorithm/edit/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Data%20Structure/problems/28279">바로가기</a>         </td> 
+  </tr>
 </table>
 <hr>
