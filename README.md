@@ -48,7 +48,7 @@
     <td>05</td>
     <td>백트래킹 </td>
     <td>Back Tracking</td>
-    <td><a href="https://github.com/y01044285848/Algorithm/tree/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Back Tracking/linkGuide">문제집</a></td>
+    <td><a href="https://github.com/y01044285848/Algorithm/tree/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/BackTracking/linkGuide">문제집</a></td>
     <td>
       <a href="https://github.com/y01044285848/Algorithm/tree/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/BackTracking/handbook">바로가기</a>
     </td>
